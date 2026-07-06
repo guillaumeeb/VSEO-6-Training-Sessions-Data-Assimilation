@@ -1,6 +1,6 @@
 name: environment
 dependencies:
-  - python=3.14
+  - python=3.12
   - pip
   - geopandas
   - rasterio
